@@ -1,7 +1,8 @@
 import React from 'react'
 
 //what's the use-case of this
-const useLoading = () => {
+//until u don't get the data, load this hooks
+const useLoading = ({}) => {
   
 }
 
