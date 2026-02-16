@@ -1,5 +1,5 @@
 import React from 'react'
-import TodoAgain02 from './_component/TodoAgain06'
+import TodoAgain02 from './_component/TodoAgainInMemory08'
 
 const page = () => {
   return (
