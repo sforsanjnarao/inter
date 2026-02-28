@@ -1,5 +1,5 @@
 "use client";
-import axios, { AxiosError } from "axios";
+import axios from "axios";
 import { useRouter } from "next/navigation";
 import React, { ChangeEvent, useState } from "react";
 import z from 'zod'

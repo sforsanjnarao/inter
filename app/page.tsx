@@ -1,10 +1,11 @@
 import React from 'react'
-import TodoAgain02 from './_component/Auth'
+import Tabs from './_component/Tabs'
+
 
 const page = () => {
   return (
     <div>
-      <TodoAgain02/>
+        <Tabs/>
     </div>
   )
 }
